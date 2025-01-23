@@ -6,6 +6,7 @@ __pycache__/
 
 # Virtual environment directory
 env/
+ven/
 
 # Database file (if using SQLite)
 *.sqlite3
