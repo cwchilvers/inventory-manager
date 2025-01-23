@@ -1,0 +1,41 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment directory
+env/
+
+# Database file (if using SQLite)
+*.sqlite3
+
+# Python environment files
+.env
+.env.*
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Dependency directories
+*.egg-info/
+dist/
+build/
+
+# Coverage reports (if using coverage tools)
+.coverage
+*.coveragerc
+*.hypothesis/
+
+# FastAPI / Uvicorn / ASGI related
+*.db
+
+# PostgreSQL specific (database dumps, if any)
+*.sql
+
+# Environment variable or config files (keep sensitive info out)
+config.json
